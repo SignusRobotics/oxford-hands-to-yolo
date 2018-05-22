@@ -1,2 +1,6 @@
 hand_dataset
 hand_dataset.tar.gz
+.vscode
+validation.txt
+test.txt
+train.txt
